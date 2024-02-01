@@ -13,7 +13,7 @@ namespace SampleProj
             Console.WriteLine("Hello World");
             Console.WriteLine("HELLO");
             Console.WriteLine("Welcome to Group D);
-                              Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
